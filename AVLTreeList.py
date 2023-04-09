@@ -1,8 +1,3 @@
-#username - noamshaib, kochavap
-#id1      - 209277888
-#name1    - noam shaib
-#id2      - 208910117
-#name2    - kochava pavlov
 
 import math
 import random
